@@ -124,7 +124,7 @@ jobs:
 
         run: |
 
-          python dist/bot3.py
+          python bot3.py
 
       # =========================
       # SAVE PROCESSED TOPICS
